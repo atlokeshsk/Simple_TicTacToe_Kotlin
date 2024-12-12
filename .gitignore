@@ -1,0 +1,56 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Tic-Tac-Toe (Kotlin)/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/
+/Simple Tic-Tac-Toe (Kotlin)/task/*
+!/Simple Tic-Tac-Toe (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/Characters. Char type/A capital letter or a digit/out/
+/Topics/Characters. Char type/A capital letter or a digit/out/production/classes/
+/Topics/Characters. Char type/Compare Latin letters/out/
+/Topics/Characters. Char type/Compare Latin letters/out/production/classes/
+/Topics/Characters. Char type/Digits or not/out/
+/Topics/Characters. Char type/Digits or not/out/production/classes/
+/Topics/For loop and ranges/The longest sequence/out/
+/Topics/For loop and ranges/The longest sequence/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/Increment and decrement/Increment, then decrement an integer/out/
+/Topics/Increment and decrement/Increment, then decrement an integer/out/production/classes/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/
+/Topics/Integers in action/Divide nuts equally between squirrels/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/production/classes/
+/Topics/Loops  repeat statement/Repeat by value/out/
+/Topics/Loops  repeat statement/Repeat by value/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Ranges/Working hours/out/
+/Topics/Ranges/Working hours/out/production/classes/
+/Topics/String basics/Reverse a user-input string/out/
+/Topics/String basics/Reverse a user-input string/out/production/classes/
+/Topics/String templates/Date and time formatting/out/
+/Topics/String templates/Date and time formatting/out/production/classes/
+/Topics/String templates/String and its Int/out/
+/Topics/String templates/String and its Int/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
+/Topics/Type conversion/Sum of Longs/out/
+/Topics/Type conversion/Sum of Longs/out/production/classes/
+/Topics/Type conversion/The superior forces of the Empire/out/
+/Topics/Type conversion/The superior forces of the Empire/out/production/classes/
